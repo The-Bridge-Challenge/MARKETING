@@ -1,19 +1,30 @@
-# Marketing Digital:
+# Guía de Marketing Digital
 
-* Realizar un análisis previo que ayude a descubrir la situación actual del sector/mercado  e investigar a posibles competidores 
-y/o soluciones sustitutivas para detectar oportunidades que nos permitan diseñar  nuestro producto/servicio
-* Definir los buyer/user persona, customer journey map, intereses y comportamiento online y cualquier aspecto adicional que me 
-ayude a construir una solución adecuada para mi cliente objetivo y orientar futuras campañas online.
-* Construir la propuesta de valor y mensajes del producto/servicio para mostrar a nuestro potencial cliente el poder 
-transformacional de nuestro producto/servicio y cómo lo llevaríamos del Antes al Después.
-* Definir junto al resto de miembros del equipo, en base a los puntos anteriores,  el modelo de negocio más apropiado para 
-desarrollar el proyecto y monetizar la solución al desafío planteado.
-* Definir el naming y branding (Personalidad de Marca, Territorios, tono de comunicación, pilares de contenido y plan de 
-contenidos para el proyecto.
-* Integrar la propuesta de valor a través de copies orientados (gain creators / pain relievers) 
-* Identificar los datos y eventos a trackear en la aplicación (plan de tracking mínimo).
-* Crear la estrategia de captación de nuevos usuarios/clientes indicando aquellos canales y tácticas que se van a llevar a cabo y 
-documentándolo  en un plan de medios.
-* Documentar un plan de contacto (buyer persona, contexto y necesidad, canal, frecuencia y workflow de ejemplo para 
-gestionar el CRM.
-* Sugerir posibles pruebas de testing para mejorar CRO en las principales landing de conversión.
+## Estrategia y Análisis
+- Realizar un análisis del sector/mercado para identificar la situación actual, competidores y soluciones sustitutivas, detectando oportunidades para el diseño del producto/servicio.
+- Investigar y definir los buyer/user personas, customer journey map, intereses y comportamiento online.
+
+## Desarrollo de la Propuesta de Valor
+- Construir la propuesta de valor y mensajes del producto/servicio para demostrar su poder transformacional.
+- Integrar la propuesta de valor en copies orientados (gain creators / pain relievers).
+
+## Modelo de Negocio y Branding
+- Definir, junto al resto del equipo, el modelo de negocio basándose en el análisis previo y la propuesta de valor.
+- Desarrollar el naming y branding, incluyendo la personalidad de marca, territorios, tono de comunicación, pilares de contenido y plan de contenidos.
+
+## Estrategia de Captación y CRM
+- Identificar datos y eventos clave para el seguimiento en la aplicación (plan de tracking mínimo).
+- Crear una estrategia de captación de usuarios/clientes, seleccionando canales y tácticas específicas, documentadas en un plan de medios.
+- Elaborar un plan de contacto para gestionar el CRM, detallando buyer persona, contexto, necesidad, canal, frecuencia y workflows de ejemplo.
+
+## Testing y Optimización
+- Sugerir pruebas de testing para mejorar la Conversión en las principales landing pages de conversión.
+
+## Directrices Específicas de Marketing Digital
+- Desarrollar una estrategia de marketing digital enfocada en atraer a nuevos asesores energéticos.
+- Crear y gestionar campañas de publicidad online, utilizando las tácticas y canales identificados en la estrategia.
+- Analizar continuamente el rendimiento de las campañas y optimizarlas basándose en los resultados obtenidos.
+
+## Documentación
+- Documentar todas las estrategias, planes y análisis realizados.
+- Mantener registros de las campañas y sus resultados para futuras referencias y mejoras continuas.
